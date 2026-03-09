@@ -1,0 +1,60 @@
+python 
+
+python is one of the most popular programming language , it's simple to use packed
+with features and supported by a wide range of libraries and frameworks, its clean
+sytax makes it beginner-friendly.
+
+* a high-level language, used in data science, automation, AL, web development and more.
+* known for its readability, which means code is easier to write, understand and maintain
+* backed by strong libary support, we don't have to build everything from scratch.
+
+=> applications of python
+   1 web development
+   2 data science & machine learning
+   3 automation & scripting
+   4 web scraping
+   5 game development
+   6 desktop applications
+
+=> wed development
+  1 (django) powers the backend of instagram and spotifiy for scalable applications
+  2 (flask) support microservices at netflix and airbnb
+  3 (fastAPL) builds high performance apls for  uber and microsoft
+  4 (SQL alchemy) manages databases for reddit.
+
+=> data science & machine learning
+  1 (pandas) analyzes user at youtude 
+  2 (numpy) simulates scientific calculations at NASA
+  3 (scikit-learn) fuels music recommendation sytems at spotifiy
+  4 (tensorFlow) powers AL services like google translate
+
+=> automation & scripting
+  1(selenium) automation testing processes for mozilla
+  2 (requests) handles APL integrations for github
+  3 (celery) manages backgroud tanks at instagram
+
+=> web scraping
+  1 (beautifulsoup) scrapes price data for amazon and flipkart
+  2 (scrapy) collects real estate listings for zillow
+  3 (selenium) extracts data from dynamic websites like linkdin
+
+=> game development
+  1 (pygame) used in popular games like frets on fire
+  2 (arcade) ideal for educational 2d game projects and tutorials
+
+=> desktop applications
+  1(tkinter) tkinter simplifies building GULs in python 
+  2 (pyQt) powers professional tools like deopbox 
+  3 (kivy) develops interactive, touch-based apps like bible+ app
+  4 (Wxpython) used for specialized applications like cira for 3d printing
+
+basic code example 
+   the following is a simple program that displays the message "hello, world!"
+   on the screen
+
+   # python program to print hello world!
+   print("hello world")
+
+output
+   hello world!
+           

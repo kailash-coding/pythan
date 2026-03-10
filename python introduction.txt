@@ -1,1 +1,14 @@
+ python introduction
 
+Python is a high-level programming language known for its simple and readable syntax. It has the following features.
+* allows writing programs with fewer lines of code improving readability
+* automatically detects varible types at runtime, eliminating the need for explicit dearations 
+* used in web development, data analisi, automation, and many other fields
+* supports object-prientted, finctional , and procedural programming styles
+* dynamically tyed and has automatic garbage collection
+
+understanding hello world program in python
+# This is a comment. It will not be executed.
+print("Hello, World!")
+
+output=  hello, world!

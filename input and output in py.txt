@@ -1,1 +1,16 @@
+input and output in python
+
+the print()funtion is used for output in various formats and the input() funtion enables interation with users 
+
+tanking input asing input ()
+python's input() function is used to take user input. by default, it returns the user input inform of a string
+
+name = input("enter your name: ")
+print("hello," , name, "! weelcome!" )
+
+output
+      enter your name : geeksforgeeks
+      hello, geeksforgeeks ! welcome!
+
+
 
